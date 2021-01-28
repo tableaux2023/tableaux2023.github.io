@@ -1,3 +1,5 @@
+# Aims and Topics
+
 The 13th International Symposium on Frontiers of Combining Systems will take place in online. It will be hosted by the Department of Computer Science at the University of Birmingham, on 8-10 September 2021.
 
 FroCoS is the main international event for research on the development of techniques and methods for the combination and integration of formal systems, their modularization and analysis. The first FroCoS symposium was held in Munich, Germany, in 1996. Initially held every two years, since 2004 it has been organized annually with alternate years forming part of IJCAR.
