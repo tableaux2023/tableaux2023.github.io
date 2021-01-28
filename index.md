@@ -2,7 +2,7 @@
 
 ## Welcome to FroCoS 2021
 
-FroCoS 2021 will take place at the Computer Science Department of the Middlesex University London, United Kingdom on September 8-10, 2021.
+FroCoS 2021 will take place at the Computer Science Department of the Birmingham University, United Kingdom on September 8-10, 2021.
 
 The conference is the 13th in a series of meetings of the International Symposium on Frontiers of Combining Systems (FroCoS).
 
