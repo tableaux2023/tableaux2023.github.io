@@ -1,1 +1,1 @@
-# Best paper awards
+# Best Paper Awards
