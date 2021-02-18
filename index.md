@@ -10,7 +10,7 @@ FroCoS 2021 will be colocated with the 28th International Conference on Automate
 
 ## Aims
 
-FroCoS is the main international event for research on the development of techniques and methods for the combination and integration of formal systems, their modularization and analysis. The first FroCoS symposium was held in Munich, Germany, in 1996. Initially held every two years, since 2004 it has been organized annually with alternate years forming part of IJCAR.
+[FroCoS](http://frocos.cs.uiowa.edu/) is the main international event for research on the development of techniques and methods for the combination and integration of formal systems, their modularization and analysis. The first FroCoS symposium was held in Munich, Germany, in 1996. Initially held every two years, since 2004 it has been organized annually with alternate years forming part of IJCAR.
 
 FroCoS 2021 will be co-located with the 29th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2021).
 
