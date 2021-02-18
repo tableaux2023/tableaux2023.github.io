@@ -38,3 +38,9 @@ Topics of interest for FroCoS 2021 include (but are not restricted to):
 - combinations and modularity in term rewriting
 - methods and techniques for the verification and analysis of information systems
 - methods and techniques for combining logical reasoning with machine learning
+
+## Covid
+
+## Covid
+
+TABLEAUX 2021 and FroCoS 2021 are intended to be hybrid conferences welcoming both physical and virtual participation. The organisers are closely monitoring the pandemic situation and may choose to make the conference virtual-only if it seems unreasonable to host any sort of physical event. A final decision will be taken before 14 June (12 weeks before the conference) to leave ample time for potential travel plans to be made.
