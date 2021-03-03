@@ -15,7 +15,7 @@
 - [Didier Galmiche](http://www.loria.fr/~galmiche)                                   LORIA - Université de Lorraine					
 - [Silvio Ghilardi](http://users.mat.unimi.it/users/ghilardi/allegati/research.html) Dipartimento di Matematica, Università degli Studi di Milano	
 - [Jürgen Giesl](http://verify.rwth-aachen.de/giesl/)                             RWTH Aachen University		
-- [Andreas	Herzig](https://www.irit.fr/~Andreas.Herzig/  IRIT at Université Paul Sabatier
+- [Andreas Herzig](https://www.irit.fr/~Andreas.Herzig/)  IRIT at Université Paul Sabatier
 - [Jean Christoph Jung](http://www.informatik.uni-bremen.de/~jeanjung/)                  Universität Bremen						
 - [Boris Konev](http://www.csc.liv.ac.uk/~konev/)                                University of Liverpool (Chair)						
 - [Roman Kontchakov](http://www.dcs.bbk.ac.uk/~roman)                                 Birkbeck, University of London					
