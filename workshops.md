@@ -1,3 +1,3 @@
 # WORKSHOPS AND TUTORIALS
 
-TABLEAUX 2021 and FroCoS 2021 plan to host a number of co-located workshops and tutorials. There will be a separate call for these soon, and details will appear here.
+FroCoS 2021 and [TABLEAUX 2021](https://www.tableaux2021.org) plan to host a number of co-located workshops and tutorials. There will be a separate call for these soon, and details will appear here.
