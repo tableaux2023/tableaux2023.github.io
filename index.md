@@ -8,6 +8,13 @@ The conference is the 13th in a series of meetings of the International Symposiu
 
 FroCoS 2021 will be colocated with the 28th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods [TABLEAUX 2021](https://www.tableaux2021.org).
 
+## Registration
+TABLEAUX and FroCoS will be entirely free-of-charge to attend, but registration is mandatory to fully engage with the scientific program. We may choose to also stream talks publicly (with no need for registration), but this will be confirmed at a later date.
+
+The registration form is [here](https://forms.gle/DRNBgeRKA4Qbcsws7).
+
+If you wish to attend physically, you should indicate it and submit your registration form by **13 August** at the latest. Note that you are able to edit this response in case of change of circumstances. Depending on the level of interest, we may ask for more information or confirmation of physical attendance at a later point. More information about the conference format will be updated on this page.
+
 ## Aims
 
 [FroCoS](http://frocos.cs.uiowa.edu/) is the main international event for research on the development of techniques and methods for the combination and integration of formal systems, their modularization and analysis. The first FroCoS symposium was held in Munich, Germany, in 1996. Initially held every two years, since 2004 it has been organized annually with alternate years forming part of IJCAR.
