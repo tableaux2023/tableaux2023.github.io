@@ -1,4 +1,4 @@
-<h4>Wednesday 6 September</h4>
+<h4>Wednesday 8 September</h4>
 
 <table>
   <tbody>
@@ -14,7 +14,7 @@
   </tbody>
 </table>  
 
-<h4>Tuesday 7 September</h4>
+<h4>Thursday 9 September</h4>
 <table>
   <tbody>
   <tr>
@@ -102,3 +102,24 @@
   </tr>
 </tbody>
 </table>
+
+<h4>Friday 10 September</h4>
+
+<table>
+  <tbody>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+  </tr>
+  <tr>
+    <td  >9:00 - 10:00</td>
+    <td  >Chantal Keller</td>
+    <td >General automation in Coq through modular transformations and SMT solving</td>
+  </tr>
+  <tr>
+    <td >10:00 - 10:30</td>
+    <td  colspan="2"><span >Break.</span></td>
+  </tr>
+  <tr>
+  </tbody>
+</table>  
