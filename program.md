@@ -120,7 +120,7 @@
     <td  colspan="2"><span >Break.</span></td>
   </tr>
     
-      <tr>
+  <tr>
     <td ></td>
     <td  colspan="2"><b>Contributed Talks:</b> <i>Calculi and Unification</i></td>
   </tr>
