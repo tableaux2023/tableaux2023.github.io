@@ -3,7 +3,7 @@
 <table>
   <tbody>
   <tr>
-    <td colspan="3"><span> <h4> Wednesday 8 September<h4></span></td>
+    <td colspan="3"><span> <h4> Wednesday 8 September</h4></span></td>
   </tr>
   <tr>
     <td ></td>
