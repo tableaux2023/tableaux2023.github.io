@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+    <td  colspan="2"><span ><b>Invited Talk</b> </span></td>
   </tr>
   <tr>
     <td  >9:00 - 10:00</td>
