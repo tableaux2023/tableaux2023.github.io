@@ -3,6 +3,9 @@
 <table>
   <tbody>
   <tr>
+    <td colspan="3"><span> <h4> Wednesday 8 September<h4></span></td>
+  </tr>
+  <tr>
     <td ></td>
     <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
   </tr>
@@ -13,7 +16,6 @@
   </tr>
   </tbody>
 </table>  
-<hr>
 
 <h4>Thursday 9 September</h4>
 <table>
