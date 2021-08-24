@@ -140,10 +140,37 @@
     <td ><span >Semantic Forgetting in Expressive Description Logics.</span></td>
   </tr>
   <tr>
-    <td >10:30 - 14:00</td>
+    <td >11:30 - 14:00</td>
     <td  colspan="2"><span >Break.</span></td>
   </tr>
-
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b >Contributed Talks:</b><i > Machine Learning </i></td>
+  </tr>
+  <tr>
+    <td >15:30 - 15:50</td>
+    <td ><span> Zarathustra Goertzel, Karel Chvalovský, Jan Jakubuv, Miroslav Olšák and Josef Urban</span></td>
+    <td ><span >Fast and Slow Enigmas and Parental Guidance</span></td>
+  </tr>
+  <tr>
+    <td >15:50 - 16:10</td>
+    <td ><span >Martin Suda</span></td>
+    <td ><span >Vampire With a Brain Is a Good ITP Hammer</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b >Contributed Talks:</b> <i>Satisfiability Modulo Theories</i></td>
+  </tr>
+  <tr>
+    <td >16:10 - 16:30</td>
+    <td ><span >Filippo Bigarella, Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Martin Jonas, Marco Roveri, Roberto Sebastiani and Patrick Trentin</span></td>
+    <td ><span >Optimization Modulo Non-Linear Arithmetic via Incremental Linearization</span></td>
+  </tr>
+  <tr>
+    <td >16:30 - 16:50</td>
+    <td ><span >Pascal Fontaine and Hans-Jörg Schurr</span></td>
+    <td ><span >Quantifier Simplification by Unification in SMT</span></td>
+  </tr>
   </tbody>
 </table>
 
