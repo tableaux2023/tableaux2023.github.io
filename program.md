@@ -13,6 +13,7 @@
   </tr>
   </tbody>
 </table>  
+<hr>
 
 <h4>Thursday 9 September</h4>
 <table>
