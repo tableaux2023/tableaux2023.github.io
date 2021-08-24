@@ -104,7 +104,6 @@
 </table>
 
 <h4>Friday 10 September</h4>
-
 <table>
   <tbody>
   <tr>
