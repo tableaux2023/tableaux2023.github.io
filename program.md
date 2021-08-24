@@ -3,8 +3,7 @@
 <table>
   <tbody>
   <tr>
-    <td ></td>
-    <td colspan="3"><span> <h4> Wednesday 8 September</h4></span></td>
+    <td colspan="3"><span> <br><h4> Wednesday 8 September</h4></span></td>
   </tr>
   <tr>
     <td ></td>
@@ -22,8 +21,7 @@
 <table>
   <tbody> -->
   <tr>
-    <td ></td>
-    <td colspan="3"><span> <h4> Thursday 9 September</h4></span></td>
+    <td colspan="3"><span> <br> <h4> Thursday 9 September</h4></span></td>
   </tr>
   <tr>
     <td ></td>
@@ -115,8 +113,7 @@
 <table>
   <tbody>-->
    <tr>
-     <td ></td>
-     <td colspan="3"><span> <h4> Friday 10 September</h4></span></td>
+     <td colspan="3"><span><br> <h4> Friday 10 September</h4></span></td>
   </tr>
   <tr>
     <td ></td>
