@@ -100,7 +100,7 @@
     <td ><span >Pascal Fontaine and Hans-Jörg Schurr</span></td>
     <td ><span >Quantifier Simplification by Unification in SMT</span></td>
   </tr>
-</tbody>
+  </tbody>
 </table>
 
 <h4>Friday 10 September</h4>
