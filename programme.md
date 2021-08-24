@@ -1,6 +1,6 @@
 ### Wednesday 8 September
 
-|               | <td colspan="2"> Invited Talk (Joint with TABLEAUX) </td>                                                      
+|                <td colspan="2"> Invited Talk (Joint with TABLEAUX) </td>                                                      
 |---------------|------------------------------------|------------------------------------------------------|
 | 14:00 - 15:00 | Michael Benedikt                   | The Strange Career of Interpolation and Definability |
 
