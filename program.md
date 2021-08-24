@@ -122,31 +122,25 @@
     
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Calculi and Unification</i></td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Description Logics</i></td>
   </tr>
   <tr>
     <td >10:30 - 10:50</td>
-    <td ><span >Martin Bromberger, Irina Dragoste, Rasha Faqeh, Christof Fetzer, Markus Krötzsch and Christoph Weidenbach</span></td>
-    <td ><span >A Datalog Hammer for Supervisor Verification ConditionsModulo Simple Linear Arithmetic.</span></td>
+    <td ><span >Franz Baader, Oliver Fernandez Gil and Maryam Rostamigiv</span></td>
+    <td ><span >Restricted Unification in the Description Logic FL0.</span></td>
   </tr>
   <tr>
     <td >10:50 - 11:10</td>
-    <td >Serdar Erbatur, Andrew M. Marshall and Christophe Ringeissen</td>
-    <td ><span >Non-Disjoint Combined Unification and Closure by Equational Paramodulation.</span></td>
+    <td >Peter Baumgartner</td>
+    <td ><span >NCombining Event Calculus and Description Logic Reasoning via Logic Programming.</span></td>
   </tr>
   <tr>
     <td >11:10 - 11:30</td>
-    <td ><span >Dennis Peuter and Viorica Sofronie-Stokkermans</span></td>
-    <td ><span >Symbol Elimination and Applications to Parametric Entailment Problems.</span></td>
+    <td ><span >Mostafa Sakr and Renate A. Schmidt</span></td>
+    <td ><span >Semantic Forgetting in Expressive Description Logics.</span></td>
   </tr>
   <tr>
-    <td >11:30 - 11:50</td>
-    <td ><span >K. Subramani, Piotr Wojciechowski and Alvaro Velasquez</span></td>
-    <td ><span >On the copy complexity of width 3 Horn constraint systems
-.</span></td>
-  </tr>
-  <tr>
-    <td >11:50 - 14:00</td>
+    <td >10:30 - 14:00</td>
     <td  colspan="2"><span >Break.</span></td>
   </tr>
 
