@@ -1,4 +1,4 @@
-<h4>Wednesday 8 September</h4>
+<!-- <h4>Wednesday 8 September</h4> -->
 
 <table>
   <tbody>
@@ -14,12 +14,15 @@
     <td  >Michael Benedikt</td>
     <td >The Strange Career of Interpolation and Definability</td>
   </tr>
-  </tbody>
+  <!-- </tbody>
 </table>  
 
 <h4>Thursday 9 September</h4>
 <table>
-  <tbody>
+  <tbody> -->
+  <tr>
+    <td colspan="3"><span> <h4> Thursday 9 September</h4></span></td>
+  </tr>
   <tr>
     <td ></td>
     <td  colspan="2"><span ><b>Invited Talk</b>  (Joint with TABLEAUX)</span></td>
@@ -102,13 +105,16 @@
     <td >16:30 - 16:50</td>
     <td ><span >Pascal Fontaine and Hans-Jörg Schurr</span></td>
     <td ><span >Quantifier Simplification by Unification in SMT</span></td>
-  </tr>
+  </tr> <!--
   </tbody>
 </table>
 
 <h4>Friday 10 September</h4>
 <table>
-  <tbody>
+  <tbody>-->
+   <tr>
+    <td colspan="3"><span> <h4> Friday 10 September</h4></span></td>
+  </tr>
   <tr>
     <td ></td>
     <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
