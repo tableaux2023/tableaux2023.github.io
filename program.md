@@ -145,31 +145,40 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b >Contributed Talks:</b><i > Machine Learning </i></td>
+    <td  colspan="2"><b >Contributed Talks:</b><i > Verification </i></td>
   </tr>
   <tr>
-    <td >15:30 - 15:50</td>
-    <td ><span> Zarathustra Goertzel, Karel Chvalovský, Jan Jakubuv, Miroslav Olšák and Josef Urban</span></td>
-    <td ><span >Fast and Slow Enigmas and Parental Guidance</span></td>
+    <td >14:00 - 14:20</td>
+    <td ><span> Hai Lin, Christopher Lynch, Andrew M. Marshall, Catherine Meadows, Paliath Narendran, Veena Ravishankar and Brandon Rozek</span></td>
+    <td ><span >Algorithmic Problems in the Symbolic Approach to the Verification of Automatically Synthesized Cryptosystems.</span></td>
   </tr>
   <tr>
-    <td >15:50 - 16:10</td>
-    <td ><span >Martin Suda</span></td>
-    <td ><span >Vampire With a Brain Is a Good ITP Hammer</span></td>
+    <td >14:20 - 14:50</td>
+    <td ><span >Hai Lin and Christopher Lynch</span></td>
+    <td ><span >Formal Analysis of Symbolic Authenticity</span></td>
+  </tr>
+  <tr>
+    <td >14:50 - 15:10</td>
+    <td ><span >Laine Rumreich and Paolo A. G. Sivilotti</span></td>
+    <td ><span >Formal Verification of a Java Component Using the RESOLVE Framework.</span></td>
+  </tr>
+   <tr>
+    <td >15:10 - 15:30</td>
+    <td  colspan="2"><span >Break.</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b >Contributed Talks:</b> <i>Satisfiability Modulo Theories</i></td>
+    <td  colspan="2"><b >Contributed Talks:</b> <i>Interactive Theorem Proving</i></td>
   </tr>
   <tr>
-    <td >16:10 - 16:30</td>
-    <td ><span >Filippo Bigarella, Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Martin Jonas, Marco Roveri, Roberto Sebastiani and Patrick Trentin</span></td>
-    <td ><span >Optimization Modulo Non-Linear Arithmetic via Incremental Linearization</span></td>
+    <td >15:30 - 15:50</td>
+    <td ><span >Antoine Defourné</span></td>
+    <td ><span >Improving Automation for Higher-order Proof Steps</span></td>
   </tr>
   <tr>
-    <td >16:30 - 16:50</td>
-    <td ><span >Pascal Fontaine and Hans-Jörg Schurr</span></td>
-    <td ><span >Quantifier Simplification by Unification in SMT</span></td>
+    <td >15:50 - 16:10</td>
+    <td ><span >Qingxiang Wang and Cezary Kaliszyk</span></td>
+    <td ><span >JEFL: Joint Embedding of Formal Proof Libraries</span></td>
   </tr>
   </tbody>
 </table>
