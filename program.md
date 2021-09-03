@@ -1,5 +1,7 @@
 <!-- <h4>Wednesday 8 September</h4> -->
 
+<p>All times are in British Summer Time (BST). </p>
+
 <table>
   <tbody>
   <tr>
