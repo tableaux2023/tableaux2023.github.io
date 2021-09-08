@@ -26,21 +26,26 @@
     <td colspan="3"><span> <br> <h4> Thursday 9 September</h4></span></td>
   </tr>
   <tr>
-    <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b>  (Joint with TABLEAUX)</span></td>
-  </tr>
+    <td  >09:00 - 09:05</td>
+    <td  >Giles and Boris</td>
+    <td >Welcome to FroCoS</td>
+  </tr>     
   <tr>
-    <td  >09:00 - 10:00</td>
+    <td ></td>
+    <td  colspan="2"><span ><b>Invited Talk</b>  (Joint with TABLEAUX) (Chair: Giles Reger)</span></td>    
+  </tr>   
+  <tr>
+    <td  >09:05 - 10:05</td>
     <td  >Renate Schmidt</td>
     <td >Forgetting and Subontology Generation for the Medical Ontology SNOMED CT</td>
   </tr>
   <tr>
-    <td >10:00 - 10:30</td>
+    <td >10:05 - 10:30</td>
     <td  colspan="2"><span >Break.</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Calculi and Unification</i></td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Calculi and Unification</i> (Chair: Franz Baader)</td>
   </tr>
   <tr>
     <td >10:30 - 10:50</td>
@@ -69,7 +74,7 @@
   </tr>
   <tr>
     <td ></td>
-     <td  colspan="2"><b>Invited Talk</b> </td>
+     <td  colspan="2"><b>Invited Talk</b> (Chair: Giles Reger) </td>
   </tr>
   <tr>
     <td  >14:00 - 15:00</td>
@@ -82,7 +87,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b >Contributed Talks:</b><i > Machine Learning </i></td>
+    <td  colspan="2"><b >Contributed Talks:</b><i > Machine Learning </i> (Chair: Konstantin Korovin)</td>
   </tr>
   <tr>
     <td >15:30 - 15:50</td>
@@ -96,7 +101,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b >Contributed Talks:</b> <i>Satisfiability Modulo Theories</i></td>
+    <td  colspan="2"><b >Contributed Talks:</b> <i>Satisfiability Modulo Theories</i> (Chair: ‪Viorica Sofronie-Stokkermans)</td>
   </tr>
   <tr>
     <td >16:10 - 16:30</td>
@@ -119,7 +124,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> </span></td>
+    <td  colspan="2"><span ><b>Invited Talk</b> (Chair: Boris Konev) </span></td>
   </tr>
   <tr>
     <td  >9:00 - 10:00</td>
@@ -133,7 +138,7 @@
     
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Description Logics</i></td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Description Logics</i> (Chair: Michael Benedikt)</td>
   </tr>
   <tr>
     <td >10:30 - 10:50</td>
@@ -156,7 +161,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b >Contributed Talks:</b><i > Verification </i></td>
+    <td  colspan="2"><b >Contributed Talks:</b><i > Verification</i> (Chair: Peter Baumgartner)</td>
   </tr>
   <tr>
     <td >14:00 - 14:20</td>
@@ -179,7 +184,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b >Contributed Talks:</b> <i>Interactive Theorem Proving</i></td>
+    <td  colspan="2"><b >Contributed Talks:</b> <i>Interactive Theorem Proving</i> (Chair: Josef Urban)</td>
   </tr>
   <tr>
     <td >15:30 - 15:50</td>
