@@ -1,7 +1,7 @@
 <!-- <h4>Wednesday 8 September</h4> -->
 
 <p>All times are in British Summer Time (BST). </p>
-<p> Zoom link for all talks: https://bham-ac-uk.zoom.us/j/81006870823</p>
+<p> Zoom link for all talks: <a href="https://bham-ac-uk.zoom.us/j/81006870823">https://bham-ac-uk.zoom.us/j/81006870823</a></p>
 
 <table>
   <tbody>
