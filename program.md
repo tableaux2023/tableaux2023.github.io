@@ -197,6 +197,10 @@
     <td ><span >Qingxiang Wang and Cezary Kaliszyk</span></td>
     <td ><span >JEFL: Joint Embedding of Formal Proof Libraries</span></td>
   </tr>
+   <tr>
+    <td >16:15 </td>
+    <td  colspan="2"><span >FroCoS business meeting</span></td>
+  </tr>
   </tbody>
 </table>
 
