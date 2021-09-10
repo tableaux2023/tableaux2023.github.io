@@ -198,8 +198,12 @@
     <td ><span >JEFL: Joint Embedding of Formal Proof Libraries</span></td>
   </tr>
    <tr>
-    <td >16:15 </td>
-    <td  colspan="2"><span >FroCoS business meeting</span></td>
+    <td >16:10 - 16:15 </td>
+    <td  colspan="2"><span >Break</span></td>
+  </tr>
+     <tr>
+    <td >16:15</td>
+    <td  colspan="2"><b >FroCoS business meeting</b> Chair: Frans Baader</td>
   </tr>
   </tbody>
 </table>
