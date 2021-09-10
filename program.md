@@ -203,7 +203,7 @@
   </tr>
      <tr>
     <td >16:15</td>
-    <td  colspan="2"><b >FroCoS business meeting</b> Chair: Frans Baader</td>
+    <td  colspan="2"><b >FroCoS business meeting</b> (Chair: Frans Baader)</td>
   </tr>
   </tbody>
 </table>
