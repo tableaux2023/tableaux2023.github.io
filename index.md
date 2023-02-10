@@ -47,7 +47,7 @@ To be announced.
 
 The conference proceedings will be published in the Springer series Lecture Notes in Artificial Intelligence (LNAI/LNCS) as Gold Open Access under a CC-BY-4.0-license. The open access costs will be covered by (at most) 100 EUR of the registration fee, and from sponsorships.
 
-See also [Paper Submission](submission.html).
+See also [Paper Submission](submission.html) and [Important Dates](dates.html).
 
 ## Best Paper Awards
 
