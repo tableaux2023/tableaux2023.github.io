@@ -1,6 +1,9 @@
 # TABLEAUX 2023 Conference
 
-**32<sup>nd</sup> International Conference on Automated Reasoning with Analytic Tableaux and Related Methods**
+<p style="text-align: center">
+   32<sup>nd</sup> International Conference on <br>
+   <strong>Automated Reasoning with Analytic Tableaux and Related Methods</strong>
+</p>
 
 ## General Information
 
