@@ -1,4 +1,4 @@
-# TABLEAUX 2023 Conference
+<h1 id="tableaux-2023-conference" style="text-align: center">TABLEAUX 2023 Conference</h1>
 
 <p style="text-align: center">
    32<sup>nd</sup> International Conference on <br>
