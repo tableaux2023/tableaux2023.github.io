@@ -11,7 +11,7 @@ The 32<sup>nd</sup> International Conference on Automated Reasoning with Analyti
 
 TABLEAUX is the main international conference at which research on all aspects -- theoretical foundations, implementation techniques, systems development and applications -- of tableaux-based reasoning and related methods is presented. The first TABLEAUX conference was held in Lautenbach near Karlsruhe, Germany, in 1992. Since then it has been organised on an annual basis (sometimes as a part of IJCAR).
 
-TABLEAUX 2023 will be co-located with the 14th International Symposium on Frontiers of Combining Systems ([FroCoS 2023](https://frocos2023.github.io/)). The conferences will provide a rich programme of workshops, tutorials, invited talks, paper presentations and system descriptions.
+TABLEAUX 2023 will be co-located with the 14<sup>th</sup> International Symposium on Frontiers of Combining Systems ([FroCoS 2023](https://frocos2023.github.io/)). The conferences will provide a rich programme of workshops, tutorials, invited talks, paper presentations and system descriptions.
 
 *TABLEAUX 2023 and FroCoS 2023 are planned as an in-person conference. However, virtual participation might be a possibility in exceptional situations.*
 
