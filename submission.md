@@ -1,18 +1,19 @@
 # Paper Submission
 
-The program committee seeks high-quality submissions describing original work, written in English, not overlapping with published or simultaneously submitted work to a journal or conference with archival proceedings. Selection criteria include accuracy and originality of ideas, clarity and significance of results, and quality of presentation. The page limit in Springer LNCS style is 15 pages in total excluding references.
+Submissions are invited in the following two categories:
 
-Papers must be edited in LaTeX using the llncs style and must be submitted electronically as PDF files via EasyChair at
+1. regular papers reporting original theoretical research or applications. Up to 15 pages excluding references;
+2. short papers such as system descriptions, user experiences, case studies and domain models. Up to 9 pages excluding references.
 
-[https://easychair.org/conferences/?conf=frocos2021](https://easychair.org/conferences/?conf=frocos2021)
+Submissions will be reviewed by the Program Committee, possibly with the help of external reviewers, taking into account correctness, originality, readability, relevance, and significance. Any additional material (going beyond the page limit) may be included in a clearly marked appendix that will be read at the discretion of the committee and must be removed for the camera-ready version.
 
-For each accepted paper, at least one of the authors is required to register to the symposium and present the work. 
+Submissions must be unpublished and not submitted for archival publication elsewhere. If software or data is relevant to a paper, a link that provides access to the software/data must be provided to enable reproduction of the results. Accepted papers in categories (1) and (2) will be published in the conference proceedings.
 
-Formatting instructions and the LNCS style files can be obtained at
+Papers must be edited in LaTeX using the llncs style and must be submitted electronically as PDF files via the EasyChair system:
 
-[http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines ](http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines)
+https://easychair.org/my/conference?conf=tableaux2023
 
+For all accepted papers at least one author is required to register to the conference and present the paper. A title and a short abstract of about 100 words must be submitted before the paper submission deadline. Formatting instructions and the LNCS style files can be obtained at:
 
-## Covid
+http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines
 
-TABLEAUX 2021 and FroCoS 2021 are intended to be hybrid conferences welcoming both physical and virtual participation. The organisers are closely monitoring the pandemic situation and may choose to make the conference virtual-only if it seems unreasonable to host any sort of physical event. A final decision will be taken before 14 June (12 weeks before the conference) to leave ample time for potential travel plans to be made.
