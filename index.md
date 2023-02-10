@@ -31,7 +31,7 @@ Topics of interest include but are not limited to:
 
 We also welcome papers describing applications of tableau procedures to real-world examples. Such papers should be tailored to the TABLEAUX community and should focus on the role of reasoning and on logical aspects of the solution.
 
-## AITP-TABLEAUX Sprecial Track
+## AITP-TABLEAUX Special Track
 
 Besides the main track, TABLEAUX 2023 will host a special track on Artificial Intelligence and Theorem Proving (AITP). The special track invites papers combining machine learning and related AI methods with standard TABLEAUX topics (see above). We welcome full versions of the extended abstracts presented at the [AITP conference](https://aitp-conference.org/2023/).
 
