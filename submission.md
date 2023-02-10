@@ -4,7 +4,7 @@ Submissions are invited in the following two categories.
 
 <ol type="A">
   <li>regular papers reporting original theoretical research or applications. Up to 15 pages excluding references</li>
-  <li>short papers such as system descriptions, user experiences, case studies and domain models. Up to 9 pages excluding references/li>
+  <li>short papers such as system descriptions, user experiences, case studies and domain models. Up to 9 pages excluding references</li>
 </ol>
 
 Submissions will be reviewed by the Program Committee, possibly with the help of external reviewers, taking into account correctness, originality, readability, relevance, and significance. Any additional material (going beyond the page limit) may be included in a clearly marked appendix that will be read at the discretion of the committee and must be removed for the camera-ready version.
