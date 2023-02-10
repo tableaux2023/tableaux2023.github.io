@@ -10,7 +10,7 @@ TABLEAUX is the main international conference at which research on all aspects -
 
 TABLEAUX 2023 will be co-located with the 14th International Symposium on Frontiers of Combining Systems ([FroCoS 2023](https://frocos2023.github.io/)). The conferences will provide a rich programme of workshops, tutorials, invited talks, paper presentations and system descriptions.
 
-TABLEAUX 2023 and FroCoS 2023 are planned as a mainly in-person conference, with the possibility of virtual participation for exceptional reasons.
+*TABLEAUX 2023 and FroCoS 2023 are planned as an in-person conference. However, virtual participation might be a possibility in exceptional situations.*
 
 ## Scope of Conference
 
