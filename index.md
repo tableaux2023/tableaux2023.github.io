@@ -9,7 +9,7 @@
 
 The 32<sup>nd</sup> International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2023) will be hosted by the Czech Technical University in Prague, Czech Republic, September 18-21, 2023.
 
-TABLEAUX is the main international conference at which research on all aspects -- theoretical foundations, implementation techniques, systems development and applications -- of tableaux-based reasoning and related methods is presented. The first TABLEAUX conference was held in Lautenbach near Karlsruhe, Germany, in 1992. Since then it has been organised on an annual basis (sometimes as a part of IJCAR).
+TABLEAUX is the main international conference at which research on all aspects -- theoretical foundations, implementation techniques, systems development and applications -- of tableaux-based reasoning and related methods are presented. The first TABLEAUX conference was held in Lautenbach near Karlsruhe, Germany, in 1992. Since then it has been organised on an annual basis (sometimes as a part of IJCAR).
 
 TABLEAUX 2023 will be co-located with the 14<sup>th</sup> International Symposium on Frontiers of Combining Systems ([FroCoS 2023](https://frocos2023.github.io/)). The conferences will provide a rich programme of workshops, tutorials, invited talks, paper presentations and system descriptions.
 
@@ -40,7 +40,7 @@ Besides the main track, TABLEAUX 2023 will host a special track on Artificial In
 
 ## Workshops and Tutorials
 
-If you would like to organize a workshop or run a tutorial, please let us know before July 14th, 2023.
+Workshop/Tutorial proposals can be made any time up to July 7, 2023. Notification will be provided within one week after submission.
 
 ## Invited Speakers
 
@@ -57,9 +57,9 @@ See also [Paper Submission](submission.html) and [Important Dates](dates.html).
 The program committee will select
 
 * the TABLEAUX 2023 Best Paper; and,
-* the TABLEAUX 2023 Best Paper by a Junior Researcher.
+* the TABLEAUX 2023 Best Junior Researcher Paper.
 
-Researchers will be considered "junior" if either they are students or their PhD degree date is less than two years from the first day of the meeting. The two awards will be presented at the conference.
+Researchers will be considered "junior" if either they are students or their PhD degree date is less than two years from the first day of the meeting. For a submission to be eligible for the Best Junior Researcher Paper award, more than 50% of the contribution must be made by the junior researcher(s). The two awards will be presented at the conference.
 
 ## Travel Grants for Students
 
