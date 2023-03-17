@@ -42,6 +42,16 @@ Besides the main track, TABLEAUX 2023 will host a special track on Artificial In
 
 Workshop/Tutorial proposals can be made any time up to July 7, 2023. Notification will be provided within one week after submission.
 
+Proposals for workshops/tutorials should contain at least the following pieces of information:
+
+* name and contact details of the main organiser(s)
+* (if applicable:) names of additional organisers
+* title and organisational style of event (tutorial, public workshop, project workshop, etc.)
+* preferred length of workshop (between half day and two days)
+* estimated number of attendees
+* short (up to one page) description of topic
+* (if applicable:) pointers to previous editions of the workshop, or to similar events
+
 ## Invited Speakers
 
 To be announced.
