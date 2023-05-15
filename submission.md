@@ -9,7 +9,7 @@ Submissions are invited in the following two categories.
 
 Submissions will be reviewed by the Program Committee, possibly with the help of external reviewers, taking into account correctness, originality, readability, relevance, and significance. Any additional material (going beyond the page limit) may be included in a clearly marked appendix that will be read at the discretion of the committee and must be removed for the camera-ready version.
 
-Submissions must be unpublished and not submitted for archival publication elsewhere. If software or data is relevant to a paper, a link that provides access to the software/data must be provided to enable reproduction of the results. Accepted papers in categories (A) and (B) will be published in the conference proceedings.
+Submissions must be unpublished and not submitted for archival publication elsewhere. The existence of non-anonymous preprints (such as on arXiv, websites, etc) is acceptable.  If software or data is relevant to a paper, a link that provides access to the software/data must be provided to enable reproduction of the results. Accepted papers in categories (A) and (B) will be published in the conference proceedings.
 
 Papers must be edited in LaTeX using the llncs style and must be submitted electronically as PDF files via the EasyChair system:
 
