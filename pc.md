@@ -58,4 +58,5 @@
 * Jan Jakubuv (Czech Technical University in Prague)
 * Martin Suda (Czech Technical University in Prague)
 * Josef Urban (Czech Technical University in Prague)
+* Cezary Kaliszyk (University of Innsbruck, Austria)
 
