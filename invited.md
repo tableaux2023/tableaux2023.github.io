@@ -1,6 +1,7 @@
 # Invited Speakers
 
-- [Michael Benedikt](https://www.cs.ox.ac.uk/people/michael.benedikt/) (joint with TABLEAUX)
-- [Vijay Ganesh](https://ece.uwaterloo.ca/~vganesh/)
-- [Chantal Keller](https://www.lri.fr/~keller/index-en.html)
-- [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (joint with TABLEAUX)
+- [Roman Kuznets](https://sites.google.com/site/kuznets/home), Technische Universität Wien, Austria
+- [Marta Bílková](https://sites.google.com/view/martabilkova), Czech Academy of Sciences, Czechia
+- [Valentin Goranko](https://www2.philosophy.su.se/goranko/), Stockholm University, Sweden (joint with FroCoS)
+- [Chad E. Brown](https://ai.ciirc.cvut.cz/groups/FM/members.html), Czech Technical Universty in Prague, Czechia
+

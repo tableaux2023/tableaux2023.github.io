@@ -52,10 +52,6 @@ Proposals for workshops/tutorials should contain at least the following pieces o
 * short (up to one page) description of topic
 * (if applicable:) pointers to previous editions of the workshop, or to similar events
 
-## Invited Speakers
-
-To be announced.
-
 ## Publication
 
 The conference proceedings will be published in the Springer series Lecture Notes in Artificial Intelligence (LNAI/LNCS) as Gold Open Access under a CC-BY-4.0-license. The open access costs will be covered by (at most) 100 EUR of the registration fee, and from sponsorships.
