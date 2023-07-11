@@ -16,5 +16,5 @@
 
 ## Automated Reasoning with Connection Calculi (AReCCa)
 
-* organized by Jens Otten, Wolfgang Bibel
+* organized by Jens Otten and Wolfgang Bibel
 
