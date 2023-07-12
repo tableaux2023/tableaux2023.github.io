@@ -20,6 +20,6 @@ For all accepted papers at least one author is required to register to the confe
 
 ## Publisher Instructions
 
-* [Springer Instructions to Authors](data/SNCS_ProceedingsPaper_LTP_OA_SN_Switzerland-pdf.pdf)
-* [Licence to Publish forms](data/Springer_Instructions_for_Authors_of_Proceedings_CS.pdf)
+* [Springer Instructions to Authors](data/Springer_Instructions_for_Authors_of_Proceedings_CS.pdf)
+* [Licence to Publish forms](data/SNCS_ProceedingsPaper_LTP_OA_SN_Switzerland-pdf.pdf)
 
