@@ -18,3 +18,8 @@ Papers must be edited in LaTeX using the llncs style and must be submitted elect
 For all accepted papers at least one author is required to register to the conference and present the paper. A title and a short abstract of about 100 words must be submitted before the paper submission deadline. Formatting instructions and the LNCS style files are available 
 [here](http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines).
 
+## Publisher Instructions
+
+* [Springer Instructions to Authors](data/SNCS_ProceedingsPaper_LTP_OA_SN_Switzerland-pdf.pdf)
+* [Licence to Publish forms](data/Springer_Instructions_for_Authors_of_Proceedings_CS.pdf)
+
