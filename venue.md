@@ -17,11 +17,12 @@ In order to get to the conference venue from the Prague airport of Václav Havel
 (PRG), you can use Prague public transport, which is clean and cheap.  Take the bus
 number 119 from the airport to it's final destination Nadrazi Veleslavin.  Then
 switch to metro (underground) and take line A (green line) to station Dejvicka.
-The journey should take around 40 minutes and it will cost you 32 CZK.  The
+The journey should take around 40 minutes and it will cost you 40 CZK.  The
 ticket can be purchased from the vending machine at the airport, right at bus
 station in front of the airport terminal building.  See <a
 href="https://pid.cz/en/for-tourists/what-ticket-should-i-use/">Prague
 transport webpage</a> for more info.
+A bus ticket can be recently purchased directly in the bus by a credit/debit card.
 
 In order to get to the conference from the Prague main railway station, you can
 walk to the Muzeum station and there take line A (green line) to station
@@ -35,10 +36,8 @@ planning your journey using public transport.
 We recommend you book a hotel nearby the conference venue using <a href="http://booking.com">booking.com</a> or <a href="http://www.airbnb.com">airbnb</a>.
 We have good experiences with the following places.
 
-<ul>
-<li><a href="https://www.booking.com/hotel/cz/vienna-house-diplomat-prague.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=7701219_91461837_1_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">Vienna House Diplomat</a>
-<li>Hotel <a href="https://www.booking.com/hotel/cz/dap.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=29236302_89033432_0_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">DAP</a>
-<li>Cheaper choice: Hotel <a href="https://www.booking.com/hotel/cz/masarykova-kolej.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=128357403_89048212_2_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">Masarykova Kolej</a>
-</ul>
-
+* <a href="https://www.booking.com/hotel/cz/vienna-house-diplomat-prague.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=7701219_91461837_1_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">Vienna House Diplomat</a>
+* Hotel <a href="https://www.booking.com/hotel/cz/dap.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=29236302_89033432_0_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">DAP</a>
+* Cheaper choice: Hotel <a href="https://www.booking.com/hotel/cz/masarykova-kolej.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=128357403_89048212_2_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">Masarykova Kolej</a>
+* or <a href="https://www.booking.com/searchresults.cs.html?ss=Dejvick%C3%A1+stanice+metra%2C+Praha%2C+%C4%8Cesk%C3%A1+republika&map=1&ssne=Praha&ssne_untouched=Praha&label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB&sid=78e16b304ba68b73d61e35dc207ebc97&aid=304142&lang=cs&sb=1&src_elem=sb&src=index&dest_id=20874&dest_type=landmark&ac_position=2&ac_click_type=b&ac_langcode=cs&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=3627673cbb360041&ac_meta=GhAzNjI3NjczY2JiMzYwMDQxIAIoATICY3M6CFByYWhhIERlQABKAFAA&checkin=2023-09-04&checkout=2023-09-08&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure#map_opened">search for the accomodation on booking.com</a> (searches around the metro station Dejvická)
 
