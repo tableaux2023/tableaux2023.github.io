@@ -2,7 +2,9 @@
 
 ## Registration system
 
-The registration for Tableaux and FroCoS 2023 in now open.  Please register [here](https://webapp.uibk.ac.at/tableaux2023/){:target="_blank"}.
+The registration for Tableaux and FroCoS 2023 in now open.  Please register here:
+
+[https://webapp.uibk.ac.at/tableaux2023/](https://webapp.uibk.ac.at/tableaux2023/){:target="_blank"}.
 
 ## Events
 
