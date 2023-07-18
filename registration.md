@@ -30,7 +30,7 @@ The following is a brief program overview.
 | FroCoS conference | 350 | 450 |
 
 All the prices are in EUR.
-The early registration prices are available up to **18th August**.
+The early registration prices are available up to **17th August (GMT time zone)**.  The late prices will take effect from 18th August (GMT).
 
 FroCoS authors additionally need to pay Springer open-access fees for every accepted paper.
 
