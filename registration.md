@@ -11,9 +11,9 @@ The registration for Tableaux and FroCoS 2023 in now open.  Please register here
 You can register for a single conference, or for a combination of events:
 
 * The program starts on Monday 18th September 2023 with two Tableaux-affiliated **workshops**.
-* The main **Tableaux** conference track is from **Tuesday** 18th **to Thursday** 20th.
-* The main **FroCoS** conference track is from **Wednesday** 19th **to Friday** 21st.
-* The joint <b>excursion and conference dinner</b> for both Tableaux and FroCoS is planned for **Wednesday** 19th afternoon/evening.
+* The main **Tableaux** conference track is from **Tuesday** 19th **to Thursday** 21th.
+* The main **FroCoS** conference track is from **Wednesday** 20th **to Friday** 22st.
+* The joint <b>excursion and conference dinner</b> for both Tableaux and FroCoS is planned for **Wednesday** 20th afternoon/evening.
 
 The following is a brief program overview.
 
