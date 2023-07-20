@@ -28,6 +28,7 @@ The following is a brief program overview.
 | Tableaux+Workshops | 450 | 550        |
 | Tableaux conference | 400  | 500        |
 | FroCoS conference | 350 | 450 |
+| Workshops only | 200 | 300 |
 
 All prices are in EUR.
 The early registration prices are available up to **17th August (GMT time zone)**.  The late prices will take effect from 18th August (GMT).
