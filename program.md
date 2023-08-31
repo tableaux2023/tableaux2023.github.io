@@ -221,7 +221,7 @@
   </tr>
   <tr>
      <td><span class="ptime">12:35-14:00</span></td>
-     <td colspan="2"><span class="pevent">Lunch (Respirium) (including Best Paper Awards ceremony)</span></td>
+     <td colspan="2"><span class="pevent">Lunch &amp; best paper awards ceremony (Respirium) </span></td>
   </tr>
   <tr>
     <td ></td>
