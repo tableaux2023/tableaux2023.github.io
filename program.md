@@ -147,6 +147,18 @@
      <td><span class="ptime">12:25-14:00</span></td>
      <td colspan="2"><span class="pevent">Lunch (Respirium)</span></td>
   </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Excursion &amp; Conference dinner</b></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">14:00-18:00</span></td>
+     <td colspan="2"><span class="ptitle">Transport and excursion to Karlštejn castle.</span></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">18:00-22:00</span></td>
+     <td colspan="2"><span class="ptitle">Transport and conference dinner in Unětice.</span></td>
+  </tr>
   
 
   <tr>
