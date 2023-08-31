@@ -4,13 +4,15 @@
 
 The registration for Tableaux and FroCoS 2023 in now open.  Please register here:
 
-[https://webapp.uibk.ac.at/tableaux2023/](https://webapp.uibk.ac.at/tableaux2023/){:target="_blank"}.
+[https://webapp.uibk.ac.at/tableaux2023/](https://webapp.uibk.ac.at/tableaux2023/){:target="_blank"}
 
 ## Events
 
 You can register for a single conference, or for a combination of events:
 
-* The program starts on Monday 18th September 2023 with two Tableaux-affiliated **workshops**.
+* The program starts on Monday 18th September 2023 with two Tableaux-affiliated **workshops** 
+  [Pt-S](https://sites.google.com/view/pts-symposium-uk/home) and
+  [AReCCa](http://leancop.de/AReCCa-2023/).
 * The main **Tableaux** conference track is from **Tuesday** 19th **to Thursday** 21th.
 * The main **FroCoS** conference track is from **Wednesday** 20th **to Friday** 22st.
 * The joint <b>excursion and conference dinner</b> for both Tableaux and FroCoS is planned for **Wednesday** 20th afternoon/evening.
