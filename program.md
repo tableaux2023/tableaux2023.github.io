@@ -233,7 +233,7 @@
      <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">15:55-16:25</span></td>
+     <td><span class="ptime">15:00-15:30</span></td>
      <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
   <tr>
