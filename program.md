@@ -88,10 +88,6 @@
      <td><span class="pauthors">AUTHOR_H1</span></td>
      <td><span class="ptitle">TITLE_H1</span></td>
   </tr>
-  <tr>
-     <td><span class="ptime"> </span></td>
-     <td colspan="2"><span class="pevent"> </span></td>
-  </tr>
   
 
   <tr>
@@ -158,7 +154,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Modal logics</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">09:00-09:25</span></td>
