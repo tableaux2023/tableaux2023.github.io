@@ -12,7 +12,7 @@
 
   <tr>
     <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+    <td  colspan="2"><span ><b>Invited Talk</b></span></td>
   </tr>
 
   <tr>
@@ -29,17 +29,17 @@
     <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">11:20-12:35</span></td>
+     <td><span class="ptime">11:20-11:45</span></td>
      <td><span class="pauthors">AUTHOR_B2</span></td>
      <td><span class="ptitle">TITLE_B2</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">11:20-12:35</span></td>
+     <td><span class="ptime">11:45-12:10</span></td>
      <td><span class="pauthors">AUTHOR_B3</span></td>
      <td><span class="ptitle">TITLE_B3</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">11:20-12:35</span></td>
+     <td><span class="ptime">11:10-12:35</span></td>
      <td><span class="pauthors">AUTHOR_B4</span></td>
      <td><span class="ptitle">TITLE_B4</span></td>
   </tr>
@@ -49,12 +49,12 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+    <td  colspan="2"><span ><b>Invited Talk</b></span></td>
   </tr>
   <tr>
      <td><span class="ptime">14:00-15:50</span></td>
      <td><span class="pauthors">Rosalie Iemhoff</span></td>
-     <td><span class="ptitle"> Proof Systems and Termination</span></td>
+     <td><span class="ptitle">Proof Systems and Termination</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:50-16:20</span></td>
@@ -65,17 +65,17 @@
     <td  colspan="2"><b>Session:</b> <i>Modal logics</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">16:20-18:00</span></td>
+     <td><span class="ptime">16:20-16:45</span></td>
      <td><span class="pauthors">AUTHOR_E3</span></td>
      <td><span class="ptitle">TITLE_E3</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">16:20-18:00</span></td>
+     <td><span class="ptime">16:45-17:10</span></td>
      <td><span class="pauthors">AUTHOR_E4</span></td>
      <td><span class="ptitle">TITLE_E4</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">16:20-18:00</span></td>
+     <td><span class="ptime">17:10-17:35</span></td>
      <td><span class="pauthors">AUTHOR_E5</span></td>
      <td><span class="ptitle">TITLE_E5</span></td>
   </tr>
@@ -84,7 +84,7 @@
     <td  colspan="2"><b>Session:</b> <i>First-order logics</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">16:20-18:00</span></td>
+     <td><span class="ptime">17:35-18:00</span></td>
      <td><span class="pauthors">AUTHOR_H1</span></td>
      <td><span class="ptitle">TITLE_H1</span></td>
   </tr>
@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
   </tr>
   <tr>
      <td><span class="ptime">9:00-10:00</span></td>
@@ -167,11 +167,11 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
   </tr>
   <tr>
      <td><span class="ptime">9:25-10:25</span></td>
-     <td><span class="pauthors">AUTHOR_I1</span></td>
+     <td><span class="pauthors">Marta Bílková</span></td>
      <td><span class="ptitle">TITLE_I1</span></td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
   </tr>
   <tr>
      <td><span class="ptime">14-15:00</span></td>
@@ -234,12 +234,12 @@
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_C2*</span></td>
+     <td><span class="pauthors">AUTHOR_C2</span></td>
      <td><span class="ptitle">TITLE_C2*</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_C3*</span></td>
+     <td><span class="pauthors">AUTHOR_C3</span></td>
      <td><span class="ptitle">TITLE_C3*</span></td>
   </tr>
   <tr>
@@ -248,12 +248,12 @@
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_A2*</span></td>
+     <td><span class="pauthors">AUTHOR_A2</span></td>
      <td><span class="ptitle">TITLE_A2*</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_H2*</span></td>
+     <td><span class="pauthors">AUTHOR_H2</span></td>
      <td><span class="ptitle">TITLE_H2*</span></td>
   </tr>
   <tr>
