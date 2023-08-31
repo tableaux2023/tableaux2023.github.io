@@ -6,12 +6,12 @@
     <td colspan="3"><span> <br><h4>Tuesday 19th September</h4></span></td>
   </tr>
   <tr>
-     <td><span class="ptime">8:40-9:00</span></td>
+     <td><span class="ptime">08:40-09:00</span></td>
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
   
   <tr>
-     <td><span class="ptime">9:00-9:05</span></td>
+     <td><span class="ptime">09:00-09:05</span></td>
      <td colspan="2"><span class="pevent">Conference welcome</span></td>
   </tr>
 
@@ -21,7 +21,7 @@
   </tr>
 
   <tr>
-     <td><span class="ptime">9:05-10:50</span></td>
+     <td><span class="ptime">09:05-10:50</span></td>
      <td><span class="pauthors">Roman Kuznets</span></td>
      <td><span class="ptitle"> Always Look on Both Sides of Proof</span></td>
   </tr>
@@ -99,7 +99,7 @@
     <td colspan="3"><span> <br><h4>Wednesday 20th September</h4></span></td>
   </tr>
   <tr>
-     <td><span class="ptime">8:40-9:00</span></td>
+     <td><span class="ptime">08:40-09:00</span></td>
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@
     <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">9:00-10:00</span></td>
+     <td><span class="ptime">09:00-10:00</span></td>
      <td><span class="pauthors">Valentin Goranko</span></td>
      <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
@@ -183,7 +183,7 @@
     <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">9:25-10:25</span></td>
+     <td><span class="ptime">09:25-10:25</span></td>
      <td><span class="pauthors">Marta Bílková</span></td>
      <td><span class="ptitle">TITLE_I1</span></td>
   </tr>
