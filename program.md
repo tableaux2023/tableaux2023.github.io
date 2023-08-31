@@ -3,17 +3,18 @@
   <tbody>
   
   <tr>
-    <td colspan="3"><span> <br><h4> Wednesday 8 September</h4></span></td>
+    <td colspan="3"><span> <br><h4>Tuesday 19th September</h4></span></td>
   </tr>
+  <tr>
+     <td><span class="ptime">8:40-9:00</span></td>
+     <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
+  </tr>
+
   <tr>
     <td ></td>
     <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
   </tr>
 
-  <tr>
-     <td><span class="ptime">8:40-9:00</span></td>
-     <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
-  </tr>
   <tr>
      <td><span class="ptime">9:00-10:50</span></td>
      <td><span class="pauthors">Roman Kuznets</span></td>
@@ -75,6 +76,11 @@
      <td><span class="ptime"> </span></td>
      <td colspan="2"><span class="pevent"> </span></td>
   </tr>
+  
+
+  <tr>
+    <td colspan="3"><span> <br><h4>Wednesday 20th September</h4></span></td>
+  </tr>
   <tr>
      <td><span class="ptime">8:40-9:00</span></td>
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
@@ -116,6 +122,11 @@
   <tr>
      <td><span class="ptime">12:25-14:00</span></td>
      <td colspan="2"><span class="pevent">Lunch</span></td>
+  </tr>
+  
+
+  <tr>
+    <td colspan="3"><span> <br><h4>Thursday 21th September</h4></span></td>
   </tr>
   <tr>
      <td><span class="ptime">9:00-10:25</span></td>
