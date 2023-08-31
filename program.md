@@ -22,11 +22,11 @@
   </tr>
   <tr>
      <td><span class="ptime">10:50-11:20</span></td>
-     <td colspan="2"><span class="pevent">Coffee</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Session Name</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">11:20-12:35</span></td>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
      <td><span class="ptime">12:35-14:00</span></td>
-     <td colspan="2"><span class="pevent">Lunch</span></td>
+     <td colspan="2"><span class="pevent">Lunch (Respirium)</span></td>
   </tr>
   <tr>
     <td ></td>
@@ -58,11 +58,11 @@
   </tr>
   <tr>
      <td><span class="ptime">15:50-16:20</span></td>
-     <td colspan="2"><span class="pevent">Coffee</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Session Name</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Modal logics</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">16:20-18:00</span></td>
@@ -78,6 +78,10 @@
      <td><span class="ptime">16:20-18:00</span></td>
      <td><span class="pauthors">AUTHOR_E5</span></td>
      <td><span class="ptitle">TITLE_E5</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>First-order logics</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">16:20-18:00</span></td>
@@ -108,11 +112,11 @@
   </tr>
   <tr>
      <td><span class="ptime">10:00-10:30</span></td>
-     <td colspan="2"><span class="pevent">Coffee</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Session Name</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Tableaux calculi</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">10:30-12:25</span></td>
@@ -130,6 +134,10 @@
      <td><span class="ptitle">TITLE_A4</span></td>
   </tr>
   <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Separation logics</i> (Chair: TBA)</td>
+  </tr>
+  <tr>
      <td><span class="ptime">10:30-12:25</span></td>
      <td><span class="pauthors">AUTHOR_G1</span></td>
      <td><span class="ptitle">TITLE_G1</span></td>
@@ -141,7 +149,7 @@
   </tr>
   <tr>
      <td><span class="ptime">12:25-14:00</span></td>
-     <td colspan="2"><span class="pevent">Lunch</span></td>
+     <td colspan="2"><span class="pevent">Lunch (Respirium)</span></td>
   </tr>
   
 
@@ -149,21 +157,39 @@
     <td colspan="3"><span> <br><h4>Thursday 21th September</h4></span></td>
   </tr>
   <tr>
-     <td><span class="ptime">9:00-10:25</span></td>
-     <td colspan="2"><span class="pevent">F1</span></td>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Modal logics</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">10:25-10:55</span></td>
-     <td colspan="2"><span class="pevent">Coffee</span></td>
+     <td><span class="ptime">09:00-09:25</span></td>
+     <td><span class="pauthors">AUTHOR_F1</span></td>
+     <td><span class="ptitle">TITLE_F1</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Session Name</i> (Chair: TBA)</td>
+    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">9:25-10:25</span></td>
+     <td><span class="pauthors">AUTHOR_I1</span></td>
+     <td><span class="ptitle">TITLE_I1</span></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">10:25-10:55</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">10:55-12:35</span></td>
      <td><span class="pauthors">AUTHOR_F2</span></td>
      <td><span class="ptitle">TITLE_F2</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">10:55-12:35</span></td>
@@ -182,7 +208,7 @@
   </tr>
   <tr>
      <td><span class="ptime">12:35-14:00</span></td>
-     <td colspan="2"><span class="pevent">Lunch (including Best Paper Awards ceremony)</span></td>
+     <td colspan="2"><span class="pevent">Lunch (Respirium) (including Best Paper Awards ceremony)</span></td>
   </tr>
   <tr>
     <td ></td>
@@ -195,11 +221,11 @@
   </tr>
   <tr>
      <td><span class="ptime">15:55-16:25</span></td>
-     <td colspan="2"><span class="pevent">Coffee</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Session Name</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Theorem proving</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
@@ -215,6 +241,10 @@
      <td><span class="ptime">15:30-16:55</span></td>
      <td><span class="pauthors">AUTHOR_C3*</span></td>
      <td><span class="ptitle">TITLE_C3*</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Tableaux calculi</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
