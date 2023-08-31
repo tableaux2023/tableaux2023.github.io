@@ -158,11 +158,11 @@
   </tr>
   <tr>
      <td><span class="ptime">14:00-18:00</span></td>
-     <td colspan="2"><span class="ptitle">Transport and excursion to Karlštejn castle.</span></td>
+     <td colspan="2"><span class="ptitle">Transport and excursion to Karlštejn castle</span></td>
   </tr>
   <tr>
      <td><span class="ptime">18:00-22:00</span></td>
-     <td colspan="2"><span class="ptitle">Transport and conference dinner in Unětice.</span></td>
+     <td colspan="2"><span class="ptitle">Transport and conference dinner in Unětice</span></td>
   </tr>
   
 
@@ -228,7 +228,7 @@
     <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">14-15:00</span></td>
+     <td><span class="ptime">14:00-15:00</span></td>
      <td><span class="pauthors">Chad E. Brown</span></td>
      <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
   </tr>
