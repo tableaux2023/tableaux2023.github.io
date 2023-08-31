@@ -9,6 +9,11 @@
      <td><span class="ptime">8:40-9:00</span></td>
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
+  
+  <tr>
+     <td><span class="ptime">9:00-9:05</span></td>
+     <td colspan="2"><span class="pevent">Conference welcome</span></td>
+  </tr>
 
   <tr>
     <td ></td>
@@ -16,7 +21,7 @@
   </tr>
 
   <tr>
-     <td><span class="ptime">9:00-10:50</span></td>
+     <td><span class="ptime">9:05-10:50</span></td>
      <td><span class="pauthors">Roman Kuznets</span></td>
      <td><span class="ptitle"> Always Look on Both Sides of Proof</span></td>
   </tr>
