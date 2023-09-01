@@ -98,12 +98,12 @@
      <td><span class="ptitle">Resolution-based Calculi for Non-Normal Modal Logics</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">17:35-18:00</span></td>
+     <td><span class="ptime">17:10-17:35</span></td>
      <td><span class="pauthors">Tim Lyon and Eugenio Orlandelli</span></td>
      <td><span class="ptitle">Nested Sequents for Quantified Modal Logics</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">17:10-17:35</span></td>
+     <td><span class="ptime">17:35-18:00</span></td>
      <td><span class="pauthors">Matteo Acclavio, Davide Catta and Federico Olimpieri</span></td>
      <td><span class="ptitle">Canonicity of Proofs in Constructive Modal Logic</span></td>
   </tr>
