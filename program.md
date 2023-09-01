@@ -21,11 +21,11 @@ All Tableaux talks are in the Red Room.
 
   <tr>
      <td><span class="ptime">09:05-09:25</span></td>
-    <td><span class="pauthors">Wolfgang Bibel <br/><i>Invited Talk</i></span></td>
+    <td><span class="pauthors">Wolfgang Bibel <br/><b>Invited Talk</b></span></td>
      <td><span class="ptitle">TBA</span></td>
   </tr> 
   <tr><td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Roman Kuznets <br/><i>Invited Talk</i></span></td>
+     <td><span class="pauthors">Roman Kuznets <br/><b>Invited Talk</b></span></td>
      <td><span class="ptitle"> Always Look on Both Sides of Proof</span></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
      <td><span class="ptime">14:00-15:00</span></td>
-     <td><span class="pauthors">Rosalie Iemhoff <br/><i>Invited Talk</i></span></td>
+     <td><span class="pauthors">Rosalie Iemhoff <br/><b>Invited Talk</b></span></td>
      <td><span class="ptitle">Proof Systems and Termination</span></td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
      <td><span class="ptime">09:00-10:00</span></td>
-     <td><span class="pauthors">Valentin Goranko <br/><i>Invited Talk - Joint with FroCoS</i></span></td>
+     <td><span class="pauthors">Valentin Goranko <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
      <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ All Tableaux talks are in the Red Room.
   <tr>
      <td><span class="ptime">10:55-11:10</span></td>
      <td><span class="pauthors">Carlos Areces, Valentin Cassano, Raul Fervari and Guillaume Hoffmann</span></td>
-     <td><span class="ptitle">DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics</span></td>
+     <td><span class="ptitle">DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics <br/><i>(Short Paper)</i></span></td>
   </tr>
   <tr>
      <td><span class="ptime">11:10-11:35</span></td>
@@ -184,7 +184,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
      <td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Marta Bílková <br/><i>Invited Talk - Joint with FroCoS</i></span></td>
+     <td><span class="pauthors">Marta Bílková <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
      <td><span class="ptitle">Epistemic Logics of Structured Intensional Groups: Agents - groups - names-types</span></td>
   </tr>
   <tr>
@@ -220,7 +220,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
      <td><span class="ptime">14:00-15:00</span></td>
-     <td><span class="pauthors">Chad E. Brown <br/><i>Invited Talk - Joint with FroCoS</i></span></td>
+     <td><span class="pauthors">Chad E. Brown <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
      <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
   </tr>
   <tr>
@@ -239,22 +239,22 @@ All Tableaux talks are in the Red Room.
   <tr>
      <td><span class="ptime">15:55-16:10</span></td>
      <td><span class="pauthors">Bartosz Piotrowski, Ramon Fernández Mir and Edward Ayers</span></td>
-     <td><span class="ptitle">Machine-Learned Premise Selection for Lean</span></td>
+     <td><span class="ptitle">Machine-Learned Premise Selection for Lean <br/><i>(Short Paper)</i></span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:10-16:25</span></td>
      <td><span class="pauthors">Boris Shminke</span></td>
-     <td><span class="ptitle">gym-saturation: Gymnasium environments for saturation provers (System description)</span></td>
+     <td><span class="ptitle">gym-saturation: Gymnasium environments for saturation provers (System description) <br/><i>(Short Paper)</i></span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:25-16:40</span></td>
      <td><span class="pauthors">Clemens Eisenhofer, Ruba Alassaf, Michael Rawson and Laura Kovacs</span></td>
-     <td><span class="ptitle">Non-Classical Logics in Satisfiability Modulo Theories</span></td>
+     <td><span class="ptitle">Non-Classical Logics in Satisfiability Modulo Theories <br/><i>(Short Paper)</i></span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:40-16:55</span></td>
      <td><span class="pauthors">Asta Halkjær From and Jørgen Villadsen</span></td>
-     <td><span class="ptitle">A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness</span></td>
+     <td><span class="ptitle">A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness <br/><i>(Short Paper)</i></span></td>
   </tr>
   <tr>
      <td><span class="ptime">17:00-18:00</span></td>
