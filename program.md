@@ -181,7 +181,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>MV-algebras</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">09:00-09:25</span></td>
@@ -203,17 +203,12 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Linear logic and Non-wellfounded proofs</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">10:55-11:20</span></td>
      <td><span class="pauthors">Alexander Gheorghiu, Tao Gu and David Pym</span></td>
      <td><span class="ptitle">Proof-theoretic Semantics for Intuitionistic Multiplicative Linear Logic</span></td>
-  </tr>
-  <tr>
-    <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: TBA)</td>
-  </tr>
   <tr>
      <td><span class="ptime">11:20-11:45</span></td>
      <td><span class="pauthors">Alexis Saurin</span></td>
