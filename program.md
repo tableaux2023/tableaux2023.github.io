@@ -17,11 +17,11 @@
 
   <tr>
      <td><span class="ptime">09:05-09:25</span></td>
-    <td><span class="pauthors">Wolfgang Bibel (Invited Talk)</span></td>
+    <td><span class="pauthors">Wolfgang Bibel <br/><i>Invited Talk</i></span></td>
      <td><span class="ptitle">TBA</span></td>
   </tr> 
   <tr><td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Roman Kuznets (Invited Talk)</span></td>
+     <td><span class="pauthors">Roman Kuznets <br/><i>Invited Talk</i></span></td>
      <td><span class="ptitle"> Always Look on Both Sides of Proof</span></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
      <td><span class="ptime">14:00-15:00</span></td>
-     <td><span class="pauthors">Rosalie Iemhoff (Invited Talk)</span></td>
+     <td><span class="pauthors">Rosalie Iemhoff <br/><i>Invited Talk</i></span></td>
      <td><span class="ptitle">Proof Systems and Termination</span></td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@
   </tr>
   <tr>
      <td><span class="ptime">09:00-10:00</span></td>
-     <td><span class="pauthors">Valentin Goranko (Invited Talk - Joint with FroCos)</span></td>
+     <td><span class="pauthors">Valentin Goranko <br/><i>Invited Talk - Joint with FroCoS</i></span></td>
      <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>MV-algebras</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">09:00-09:25</span></td>
@@ -181,7 +181,7 @@
   </tr>
   <tr>
      <td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Marta Bílková (Invited Talk - Joint with FroCos)</span></td>
+     <td><span class="pauthors">Marta Bílková <br/><i>Invited Talk - Joint with FroCoS</i></span></td>
      <td><span class="ptitle">Epistemic Logics of Structured Intensional Groups: Agents - groups - names-types</span></td>
   </tr>
   <tr>
@@ -221,7 +221,7 @@
   </tr>
   <tr>
      <td><span class="ptime">14:00-15:00</span></td>
-     <td><span class="pauthors">Chad E. Brown (Invited Talk - Joint with FroCos)</span></td>
+     <td><span class="pauthors">Chad E. Brown <br/><i>Invited Talk - Joint with FroCoS</i></span></td>
      <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
   </tr>
   <tr>
