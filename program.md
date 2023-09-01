@@ -21,7 +21,7 @@
   </tr>
 
   <tr>
-     <td><span class="ptime">09:05-10:50</span></td>
+     <td><span class="ptime">09:05-09:25</span></td>
     <td><span class="pauthors">Wolfgang Bibel</span></td>
      <td><span class="ptitle">TBA</span></td>
       </tr> 
@@ -89,18 +89,18 @@
   </tr>
   <tr>
      <td><span class="ptime">16:20-16:45</span></td>
-     <td><span class="pauthors">AUTHOR_E3</span></td>
-     <td><span class="ptitle"></span></td>
+     <td><span class="pauthors">Tiziano Dalmonte and Andrea Mazzullo</span></td>
+     <td><span class="ptitle">NP Complexity for Combinations of Non-Normal Modal Logics</span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:45-17:10</span></td>
-     <td><span class="pauthors">AUTHOR_E4</span></td>
-     <td><span class="ptitle">TITLE_E4</span></td>
+     <td><span class="pauthors">Dirk Pattinson, Nicola Olivetti and Cláudia Nalon</span></td>
+     <td><span class="ptitle">Resolution-based Calculi for Non-Normal Modal Logics</span></td>
   </tr>
   <tr>
      <td><span class="ptime">17:10-17:35</span></td>
-     <td><span class="pauthors">AUTHOR_E5</span></td>
-     <td><span class="ptitle">TITLE_E5</span></td>
+     <td><span class="pauthors">Matteo Acclavio, Davide Catta and Federico Olimpieri</span></td>
+     <td><span class="ptitle">Canonicity of Proofs in Constructive Modal Logic</span></td>
   </tr>
   <tr>
     <td ></td>
