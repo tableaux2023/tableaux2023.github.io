@@ -1,4 +1,8 @@
 
+# Program
+
+All Tableaux talks are in the Red Room.
+
 <table>
   <tbody>
   
