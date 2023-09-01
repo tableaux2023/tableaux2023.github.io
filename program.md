@@ -196,7 +196,7 @@ All Tableaux talks are in the Red Room.
      <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
      <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
   <tr>
-     <td><span class="ptime">11:20-11:45</span></td>
+     <td><span class="ptime"></span></td>
     <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: TBA)</td>
   </tr>
   <tr>
@@ -261,6 +261,8 @@ All Tableaux talks are in the Red Room.
      <td colspan="2"><span class="pevent">Business meeting</span></td>
   </tr>
 
+<!--
 </tbody>
 </table>
+-->
 
