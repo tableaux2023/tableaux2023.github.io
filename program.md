@@ -206,7 +206,7 @@
     <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">10:55-12:35</span></td>
+     <td><span class="ptime">10:55-11:20</span></td>
      <td><span class="pauthors">Alexander Gheorghiu, Tao Gu and David Pym</span></td>
      <td><span class="ptitle">Proof-theoretic Semantics for Intuitionistic Multiplicative Linear Logic</span></td>
   </tr>
@@ -215,17 +215,17 @@
     <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">10:55-12:35</span></td>
+     <td><span class="ptime">11:20-11:45</span></td>
      <td><span class="pauthors">Alexis Saurin</span></td>
      <td><span class="ptitle">A linear perspective on cut-elimination for non-wellfounded sequent calculi with least and greatest fixed points</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">10:55-12:35</span></td>
+     <td><span class="ptime">11:45-12:10</span></td>
      <td><span class="pauthors">Bahareh Afshari, Lide Grotenhuis, Graham Leigh and Lukas Zenger</span></td>
      <td><span class="ptitle">Ill-founded Proof Systems For Intuitionistic Linear-time Temporal Logic</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">10:55-12:35</span></td>
+     <td><span class="ptime">12:10-12:35</span></td>
      <td><span class="pauthors">Maurice Dekker, Johannes Kloibhofer, Johannes Marti and Yde Venema</span></td>
      <td><span class="ptitle">Proof Systems for the Modal $\mu$-Calculus Obtained by Determinizing Automata</span></td>
   </tr>
