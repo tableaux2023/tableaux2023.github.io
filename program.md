@@ -189,10 +189,6 @@
      <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
   <tr>
-    <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Linear logic and Non-wellfounded proofs</i> (Chair: TBA)</td>
-  </tr>
-  <tr>
      <td><span class="ptime">10:55-11:20</span></td>
      <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
      <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
