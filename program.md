@@ -247,18 +247,18 @@
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_C1</span></td>
-     <td><span class="ptitle">TITLE_C1</span></td>
+     <td><span class="pauthors">Michael Rawson, Christoph Wernhard, Zsolt Zombori and Wolfgang Bibel</span></td>
+     <td><span class="ptitle">Lemmas: Generation, Selection, Application</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_C2</span></td>
-     <td><span class="ptitle">TITLE_C2*</span></td>
+     <td><span class="pauthors">Bartosz Piotrowski, Ramon Fernández Mir and Edward Ayers</span></td>
+     <td><span class="ptitle">Machine-Learned Premise Selection for Lean*</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_C3</span></td>
-     <td><span class="ptitle">TITLE_C3*</span></td>
+     <td><span class="pauthors">Boris Shminke</span></td>
+     <td><span class="ptitle">gym-saturation: Gymnasium environments for saturation provers (System description)*</span></td>
   </tr>
   <tr>
     <td ></td>
@@ -266,13 +266,13 @@
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_A2</span></td>
-     <td><span class="ptitle">TITLE_A2*</span></td>
+     <td><span class="pauthors">Clemens Eisenhofer, Ruba Alassaf, Michael Rawson and Laura Kovacs</span></td>
+     <td><span class="ptitle">Non-Classical Logics in Satisfiability Modulo Theories*</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-16:55</span></td>
-     <td><span class="pauthors">AUTHOR_H2</span></td>
-     <td><span class="ptitle">TITLE_H2*</span></td>
+     <td><span class="pauthors">Asta Halkjær From and Jørgen Villadsen</span></td>
+     <td><span class="ptitle">A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness*</span></td>
   </tr>
   <tr>
      <td><span class="ptime">17:00-18:00</span></td>
