@@ -4,7 +4,7 @@
 All Tableaux talks are in the Red Room.
 
 <table>
-  <tbody>
+<tbody>
   
   <tr>
     <td colspan="3"><span> <br><h4>Tuesday 19th September</h4></span></td>
@@ -143,7 +143,6 @@ All Tableaux talks are in the Red Room.
     <td  colspan="2"><b>Session:</b> <i>Separation logic</i> (Chair: TBA)</td>
   </tr>
   <tr>
-<!--    <td  colspan="2"><b>Session:</b> <i>Separation logics</i> (Chair: TBA)</td> -->
      <td><span class="ptime">11:35-12:00</span></td>
      <td><span class="pauthors">Frank de Boer, Hans Dieter Hiep and Stijn de Gouw</span></td>
      <td><span class="ptitle">The Logic of Separation Logic: Models and Proofs</span></td>
@@ -262,8 +261,6 @@ All Tableaux talks are in the Red Room.
      <td colspan="2"><span class="pevent">Business meeting</span></td>
   </tr>
 
-
-  </tbody>
+</tbody>
 </table>
-
 
