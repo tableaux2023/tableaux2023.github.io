@@ -185,8 +185,8 @@
   </tr>
   <tr>
      <td><span class="ptime">09:00-09:25</span></td>
-     <td><span class="pauthors">AUTHOR_F1</span></td>
-     <td><span class="ptitle">TITLE_F1</span></td>
+     <td><span class="pauthors">Alexander Gheorghiu, Tao Gu and David Pym</span></td>
+     <td><span class="ptitle">Proof-theoretic Semantics for Intuitionistic Multiplicative Linear Logic</span></td>
   </tr>
   <tr>
     <td ></td>
@@ -207,8 +207,8 @@
   </tr>
   <tr>
      <td><span class="ptime">10:55-12:35</span></td>
-     <td><span class="pauthors">AUTHOR_F2</span></td>
-     <td><span class="ptitle">TITLE_F2</span></td>
+     <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
+     <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
   </tr>
   <tr>
     <td ></td>
@@ -216,18 +216,18 @@
   </tr>
   <tr>
      <td><span class="ptime">10:55-12:35</span></td>
-     <td><span class="pauthors">AUTHOR_D1</span></td>
-     <td><span class="ptitle">TITLE_D1</span></td>
+     <td><span class="pauthors">Alexis Saurin</span></td>
+     <td><span class="ptitle">A linear perspective on cut-elimination for non-wellfounded sequent calculi with least and greatest fixed points</span></td>
   </tr>
   <tr>
      <td><span class="ptime">10:55-12:35</span></td>
-     <td><span class="pauthors">AUTHOR_D2</span></td>
-     <td><span class="ptitle">TITLE_D2</span></td>
+     <td><span class="pauthors">Bahareh Afshari, Lide Grotenhuis, Graham Leigh and Lukas Zenger</span></td>
+     <td><span class="ptitle">Ill-founded Proof Systems For Intuitionistic Linear-time Temporal Logic</span></td>
   </tr>
   <tr>
      <td><span class="ptime">10:55-12:35</span></td>
-     <td><span class="pauthors">AUTHOR_D3</span></td>
-     <td><span class="ptitle">TITLE_D3</span></td>
+     <td><span class="pauthors">Maurice Dekker, Johannes Kloibhofer, Johannes Marti and Yde Venema</span></td>
+     <td><span class="ptitle">Proof Systems for the Modal $\mu$-Calculus Obtained by Determinizing Automata</span></td>
   </tr>
   <tr>
      <td><span class="ptime">12:35-14:00</span></td>
