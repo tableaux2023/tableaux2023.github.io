@@ -16,30 +16,25 @@
   </tr>
 
   <tr>
-    <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b></span></td>
-  </tr>
-
-  <tr>
      <td><span class="ptime">09:05-09:25</span></td>
-    <td><span class="pauthors">Wolfgang Bibel</span></td>
+    <td><span class="pauthors">Wolfgang Bibel (Invited Talk)</span></td>
      <td><span class="ptitle">TBA</span></td>
-      </tr> 
-        <tr><td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Roman Kuznets</span></td>
+  </tr> 
+  <tr><td><span class="ptime">09:25-10:25</span></td>
+     <td><span class="pauthors">Roman Kuznets (Invited Talk)</span></td>
      <td><span class="ptitle"> Always Look on Both Sides of Proof</span></td>
-            </tr>
-              <tr><td><span class="ptime">10:25-10:50</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: TBA)</td>
+  </tr>
+  <tr><td><span class="ptime">10:25-10:50</span></td>
     <td><span class="pauthors">Ian Shillito, Iris van der Giessen, Rajeev Gore and Rosalie Iemhoff</span></td>
      <td><span class="ptitle"> A new calculus for intuitionistic Strong Löb logic: strong termination and cut-elimination, formalised</span></td>
   </tr>
   <tr>
      <td><span class="ptime">10:50-11:20</span></td>
      <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
-  </tr>
-  <tr>
-    <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">11:20-11:45</span></td>
@@ -61,12 +56,8 @@
      <td colspan="2"><span class="pevent">Lunch (Respirium)</span></td>
   </tr>
   <tr>
-    <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b></span></td>
-  </tr>
-  <tr>
      <td><span class="ptime">14:00-15:00</span></td>
-     <td><span class="pauthors">Rosalie Iemhoff</span></td>
+     <td><span class="pauthors">Rosalie Iemhoff (Invited Talk)</span></td>
      <td><span class="ptitle">Proof Systems and Termination</span></td>
   </tr>
   <tr>
@@ -116,12 +107,8 @@
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
   <tr>
-    <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
-  </tr>
-  <tr>
      <td><span class="ptime">09:00-10:00</span></td>
-     <td><span class="pauthors">Valentin Goranko</span></td>
+     <td><span class="pauthors">Valentin Goranko (Invited Talk - Joint with FroCos)</span></td>
      <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
   <tr>
@@ -139,13 +126,17 @@
   </tr>
   <tr>
      <td><span class="ptime">10:55-11:10</span></td>
-     <td><span class="pauthors">Carlos Areces, Valentin Cassano, Raul Fervari and Guillaume Hoffmann*</span></td>
-     <td><span class="ptitle">DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics*</span></td>
+     <td><span class="pauthors">Carlos Areces, Valentin Cassano, Raul Fervari and Guillaume Hoffmann</span></td>
+     <td><span class="ptitle">DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics</span></td>
   </tr>
   <tr>
      <td><span class="ptime">11:10-11:35</span></td>
      <td><span class="pauthors">Ineke Van Der Berg, Andrea De Domenico, Giuseppe Greco, Krishna Manoorkar, Alessandra Palmigiano and Mattia Panettiere</span></td>
      <td><span class="ptitle">Non-distributive description logic</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Separation logic</i> (Chair: TBA)</td>
   </tr>
   <tr>
 <!--    <td  colspan="2"><b>Session:</b> <i>Separation logics</i> (Chair: TBA)</td> -->
@@ -185,17 +176,13 @@
   </tr>
   <tr>
      <td><span class="ptime">09:00-09:25</span></td>
-     <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
-     <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
-  </tr>
-  <tr>
-    <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
+     <td><span class="pauthors">Alexander Gheorghiu, Tao Gu and David Pym</span></td>
+     <td><span class="ptitle">Proof-theoretic Semantics for Intuitionistic Multiplicative Linear Logic</span></td>
   </tr>
   <tr>
      <td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Marta Bílková</span></td>
-     <td><span class="ptitle">TITLE_I1</span></td>
+     <td><span class="pauthors">Marta Bílková (Invited Talk - Joint with FroCos)</span></td>
+     <td><span class="ptitle">Epistemic Logics of Structured Intensional Groups: Agents - groups - names-types</span></td>
   </tr>
   <tr>
      <td><span class="ptime">10:25-10:55</span></td>
@@ -207,10 +194,14 @@
   </tr>
   <tr>
      <td><span class="ptime">10:55-11:20</span></td>
-     <td><span class="pauthors">Alexander Gheorghiu, Tao Gu and David Pym</span></td>
-     <td><span class="ptitle">Proof-theoretic Semantics for Intuitionistic Multiplicative Linear Logic</span></td>
+     <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
+     <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
   <tr>
      <td><span class="ptime">11:20-11:45</span></td>
+    <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: TBA)</td>
+  </tr>
+  <tr>
+     <td><span class="ptime">10:55-12:35</span></td>
      <td><span class="pauthors">Alexis Saurin</span></td>
      <td><span class="ptitle">A linear perspective on cut-elimination for non-wellfounded sequent calculi with least and greatest fixed points</span></td>
   </tr>
@@ -229,12 +220,8 @@
      <td colspan="2"><span class="pevent">Lunch &amp; best paper awards ceremony (Respirium) </span></td>
   </tr>
   <tr>
-    <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with FroCoS)</span></td>
-  </tr>
-  <tr>
      <td><span class="ptime">14:00-15:00</span></td>
-     <td><span class="pauthors">Chad E. Brown</span></td>
+     <td><span class="pauthors">Chad E. Brown (Invited Talk - Joint with FroCos)</span></td>
      <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
   </tr>
   <tr>
@@ -253,22 +240,22 @@
   <tr>
      <td><span class="ptime">15:55-16:10</span></td>
      <td><span class="pauthors">Bartosz Piotrowski, Ramon Fernández Mir and Edward Ayers</span></td>
-     <td><span class="ptitle">Machine-Learned Premise Selection for Lean*</span></td>
+     <td><span class="ptitle">Machine-Learned Premise Selection for Lean</span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:10-16:25</span></td>
      <td><span class="pauthors">Boris Shminke</span></td>
-     <td><span class="ptitle">gym-saturation: Gymnasium environments for saturation provers (System description)*</span></td>
+     <td><span class="ptitle">gym-saturation: Gymnasium environments for saturation provers (System description)</span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:25-16:40</span></td>
      <td><span class="pauthors">Clemens Eisenhofer, Ruba Alassaf, Michael Rawson and Laura Kovacs</span></td>
-     <td><span class="ptitle">Non-Classical Logics in Satisfiability Modulo Theories*</span></td>
+     <td><span class="ptitle">Non-Classical Logics in Satisfiability Modulo Theories</span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:40-16:55</span></td>
      <td><span class="pauthors">Asta Halkjær From and Jørgen Villadsen</span></td>
-     <td><span class="ptitle">A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness*</span></td>
+     <td><span class="ptitle">A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness</span></td>
   </tr>
   <tr>
      <td><span class="ptime">17:00-18:00</span></td>
