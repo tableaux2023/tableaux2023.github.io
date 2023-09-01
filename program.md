@@ -65,9 +65,19 @@
     <td  colspan="2"><span ><b>Invited Talk</b></span></td>
   </tr>
   <tr>
-     <td><span class="ptime">14:00-15:50</span></td>
+     <td><span class="ptime">14:00-15:00</span></td>
      <td><span class="pauthors">Rosalie Iemhoff</span></td>
      <td><span class="ptitle">Proof Systems and Termination</span></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">15:00-15:25</span></td>
+     <td><span class="pauthors">Iris van der Giessen, Raheleh Jalali and Roman Kuznets</span></td>
+     <td><span class="ptitle">Extensions of K5: Proof Theory and Uniform Lyndon Interpolation</span></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">15:25-15:50</span></td>
+     <td><span class="pauthors">Anupam Das and Sonia Marin</span></td>
+     <td><span class="ptitle">On intuitionistic diamonds (and lack thereof)</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:50-16:20</span></td>
@@ -80,7 +90,7 @@
   <tr>
      <td><span class="ptime">16:20-16:45</span></td>
      <td><span class="pauthors">AUTHOR_E3</span></td>
-     <td><span class="ptitle">TITLE_E3</span></td>
+     <td><span class="ptitle"></span></td>
   </tr>
   <tr>
      <td><span class="ptime">16:45-17:10</span></td>
