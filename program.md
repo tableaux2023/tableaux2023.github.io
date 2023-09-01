@@ -133,33 +133,30 @@
     <td  colspan="2"><b>Session:</b> <i>Tableaux calculi</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">10:30-12:25</span></td>
-     <td><span class="pauthors">AUTHOR_A1</span></td>
-     <td><span class="ptitle">TITLE_A1</span></td>
+     <td><span class="ptime">10:30-10:55</span></td>
+     <td><span class="pauthors">Christoph Wernhard</span></td>
+     <td><span class="ptitle">Range-Restricted and Horn Interpolation through Clausal Tableaux</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">10:30-12:25</span></td>
-     <td><span class="pauthors">AUTHOR_A3*</span></td>
-     <td><span class="ptitle">TITLE_A3*</span></td>
+     <td><span class="ptime">10:55-11:10</span></td>
+     <td><span class="pauthors">Carlos Areces, Valentin Cassano, Raul Fervari and Guillaume Hoffmann*</span></td>
+     <td><span class="ptitle">DefTab: A Tableaux System for Sceptical Consequence in Default Modal Logics*</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">10:30-12:25</span></td>
-     <td><span class="pauthors">AUTHOR_A4</span></td>
-     <td><span class="ptitle">TITLE_A4</span></td>
+     <td><span class="ptime">11:10-11:35</span></td>
+     <td><span class="pauthors">Ineke Van Der Berg, Andrea De Domenico, Giuseppe Greco, Krishna Manoorkar, Alessandra Palmigiano and Mattia Panettiere</span></td>
+     <td><span class="ptitle">Non-distributive description logic</span></td>
   </tr>
   <tr>
-    <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Separation logics</i> (Chair: TBA)</td>
+<!--    <td  colspan="2"><b>Session:</b> <i>Separation logics</i> (Chair: TBA)</td> -->
+     <td><span class="ptime">11:35-12:00</span></td>
+     <td><span class="pauthors">Frank de Boer, Hans Dieter Hiep and Stijn de Gouw</span></td>
+     <td><span class="ptitle">The Logic of Separation Logic: Models and Proofs</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">10:30-12:25</span></td>
-     <td><span class="pauthors">AUTHOR_G1</span></td>
-     <td><span class="ptitle">TITLE_G1</span></td>
-  </tr>
-  <tr>
-     <td><span class="ptime">10:30-12:25</span></td>
-     <td><span class="pauthors">AUTHOR_G2</span></td>
-     <td><span class="ptitle">TITLE_G2</span></td>
+     <td><span class="ptime">12:00-12:25</span></td>
+     <td><span class="pauthors">Nicolas Peltier</span></td>
+     <td><span class="ptitle">Testing the Satisfiability of Formulas in Separation Logic with Permissions</span></td>
   </tr>
   <tr>
      <td><span class="ptime">12:25-14:00</span></td>
