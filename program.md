@@ -185,8 +185,8 @@
   </tr>
   <tr>
      <td><span class="ptime">09:00-09:25</span></td>
-     <td><span class="pauthors">Alexander Gheorghiu, Tao Gu and David Pym</span></td>
-     <td><span class="ptitle">Proof-theoretic Semantics for Intuitionistic Multiplicative Linear Logic</span></td>
+     <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
+     <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
   </tr>
   <tr>
     <td ></td>
@@ -207,8 +207,8 @@
   </tr>
   <tr>
      <td><span class="ptime">10:55-12:35</span></td>
-     <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
-     <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
+     <td><span class="pauthors">Alexander Gheorghiu, Tao Gu and David Pym</span></td>
+     <td><span class="ptitle">Proof-theoretic Semantics for Intuitionistic Multiplicative Linear Logic</span></td>
   </tr>
   <tr>
     <td ></td>
