@@ -24,8 +24,12 @@
      <td><span class="ptime">09:05-10:50</span></td>
     <td><span class="pauthors">Wolfgang Bibel</span></td>
      <td><span class="ptitle">TBA</span></td>
+      </tr> 
+        <tr><td><span class="ptime">09:25-10:25</span></td>
      <td><span class="pauthors">Roman Kuznets</span></td>
      <td><span class="ptitle"> Always Look on Both Sides of Proof</span></td>
+            </tr>
+              <tr><td><span class="ptime">10:25-10:50</span></td>
     <td><span class="pauthors">Ian Shillito, Iris van der Giessen, Rajeev Gore and Rosalie Iemhoff</span></td>
      <td><span class="ptitle"> A new calculus for intuitionistic Strong Löb logic: strong termination and cut-elimination, formalised</span></td>
   </tr>
