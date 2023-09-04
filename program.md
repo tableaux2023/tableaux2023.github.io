@@ -51,7 +51,7 @@ All Tableaux talks are in the Red Room.
      <td><span class="ptitle">A cut-free, sound and complete Russellian theory of definite descriptions</span></td>
   </tr>
   <tr>
-     <td><span class="ptime">11:10-12:35</span></td>
+     <td><span class="ptime">12:10-12:35</span></td>
      <td><span class="pauthors">Andrzej Indrzejczak</span></td>
      <td><span class="ptitle">Towards Proof-Theoretic Formulation of the General Theory of Term-Forming Operators</span></td>
   </tr>
@@ -200,7 +200,7 @@ All Tableaux talks are in the Red Room.
     <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: TBA)</td>
   </tr>
   <tr>
-     <td><span class="ptime">10:55-12:35</span></td>
+     <td><span class="ptime">11:20-11:45</span></td>
      <td><span class="pauthors">Alexis Saurin</span></td>
      <td><span class="ptitle">A linear perspective on cut-elimination for non-wellfounded sequent calculi with least and greatest fixed points</span></td>
   </tr>
