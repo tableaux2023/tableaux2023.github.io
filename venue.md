@@ -2,8 +2,10 @@
 
 ## Venue
 
-The conference will be located at the <a href="http://ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC)</a> of <a href="http://www.cvut.cz">Czech Technical University in Prague (CTU)</a>.  The main conference track will be held in the <a
-href="https://www.ciirc.cvut.cz/about/ciirc-ctu-building/">Red Room</a> in building B,  workshops will be located in rooms 670 and 671, and coffee breaks will be held in Respirium. When attending the conference, use entrance B from the street Jugoslávských partyzánů and then follow signs pointing you to the conference registration desk.  The registration desk will open at 8:30 AM on Monday.
+The conference will be located at the <a href="http://ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC)</a> of <a href="http://www.cvut.cz">Czech Technical University in Prague (CTU)</a>.  The main Tableaux conference track (Tuesday to Thursday) and the AReCCa workshop (Monday) will be held in the <a href="https://www.ciirc.cvut.cz/about/ciirc-ctu-building/">Red Room</a> in building B.
+Room 571 will accomodate overlaping FroCoS events (Wednesday to Thursday) and the Pt-S workshop (Monday and Tuesday).
+The coffee breaks will be held in Respirium right above the Red Room.
+When attending the conference, use entrance B from the street Jugoslávských partyzánů and then follow signs pointing you to the conference registration desk.  The registration desk will open at 8:45 AM on Monday.
 
 The venue address is: Jugoslávských partyzánů 1580/3, Dejvice, Praha.
 
