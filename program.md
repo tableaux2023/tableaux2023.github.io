@@ -1,5 +1,11 @@
 
-# Program
+## Proceedings
+
+Available online:
+
+[https://link.springer.com/book/10.1007/978-3-031-43513-3#toc](https://link.springer.com/book/10.1007/978-3-031-43513-3#toc)
+
+## Program
 
 All Tableaux talks are in the Red Room.
 
@@ -22,7 +28,7 @@ All Tableaux talks are in the Red Room.
   <tr>
      <td><span class="ptime">09:05-09:25</span></td>
     <td><span class="pauthors">Wolfgang Bibel <br/><b>Invited Talk</b></span></td>
-     <td><span class="ptitle">TBA</span></td>
+     <td><span class="ptitle">Reasoning Research Viewed in Broad Terms</span></td>
   </tr> 
   <tr><td><span class="ptime">09:25-10:25</span></td>
      <td><span class="pauthors">Roman Kuznets <br/><b>Invited Talk</b></span></td>
