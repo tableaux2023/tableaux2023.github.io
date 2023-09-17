@@ -44,3 +44,22 @@ We have good experiences with the following places.
 * Cheaper choice: Hotel <a href="https://www.booking.com/hotel/cz/masarykova-kolej.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=128357403_89048212_2_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">Masarykova Kolej</a>
 * or <a href="https://www.booking.com/searchresults.cs.html?ss=Dejvick%C3%A1+stanice+metra%2C+Praha%2C+%C4%8Cesk%C3%A1+republika&map=1&ssne=Praha&ssne_untouched=Praha&label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB&sid=78e16b304ba68b73d61e35dc207ebc97&aid=304142&lang=cs&sb=1&src_elem=sb&src=index&dest_id=20874&dest_type=landmark&ac_position=2&ac_click_type=b&ac_langcode=cs&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=3627673cbb360041&ac_meta=GhAzNjI3NjczY2JiMzYwMDQxIAIoATICY3M6CFByYWhhIERlQABKAFAA&checkin=2023-09-04&checkout=2023-09-08&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure#map_opened">search for the accomodation on booking.com</a> (searches around the metro station Dejvická)
 
+## Navigating the Building
+
+![Getting to the CIIRC building from the nearest metro station](data/001.jpeg "Getting to the CIIRC building from the nearest metro station")
+
+![Skipping the first entrance (building A)](data/002.jpeg "Skipping the first entrance (building A)")
+
+![Entering building B](data/003.jpeg "Entering building B")
+
+![Registration desk just behind the door](data/004.jpeg "Registration desk just behind the door")
+
+![Towards the Red Room, Respirium and B-571](data/005.jpeg "Towards the Red Room, Respirium and B-571")
+
+![Towards B-571, down the long corridor](data/571/005.jpg "Towards B-571, down the long corridor")
+![Towards B-571, looking for an elevator](data/571/006.jpg "Towards B-571, looking for an elevator")
+![Towards B-571, found an elevator](data/571/007.jpg "Towards B-571, found an elevator")
+![Towards B-571, aiming for the fifth floor](data/571/008.jpg "Towards B-571, aiming for the fifth floor")
+![Towards B-571, getting off and turning right](data/571/009.jpg "Towards B-571, getting off and turning right")
+![Towards B-571, found it!](data/571/010.jpg "Towards B-571, found it!")
+
