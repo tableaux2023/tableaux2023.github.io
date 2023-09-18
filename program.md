@@ -32,11 +32,11 @@ All Tableaux talks are in the Red Room.
   </tr> 
   <tr><td><span class="ptime">09:25-10:25</span></td>
      <td><span class="pauthors">Roman Kuznets <br/><b>Invited Talk</b></span></td>
-     <td><span class="ptitle"> Always Look on Both Sides of Proof</span></td>
+     <td><span class="ptitle"> Always Look on Both Sides of Proof<br/>(Chair: Jens Otten)</span></td>
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: Marta Bílková)</td>
   </tr>
   <tr><td><span class="ptime">10:25-10:50</span></td>
     <td><span class="pauthors">Ian Shillito, Iris van der Giessen, Rajeev Gore and Rosalie Iemhoff</span></td>
@@ -66,6 +66,10 @@ All Tableaux talks are in the Red Room.
      <td colspan="2"><span class="pevent">Lunch (Respirium)</span></td>
   </tr>
   <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Modal logics I</i> (Chair: Andrzej Indrzejczak)</td>
+  </tr>
+  <tr>
      <td><span class="ptime">14:00-15:00</span></td>
      <td><span class="pauthors">Rosalie Iemhoff <br/><b>Invited Talk</b></span></td>
      <td><span class="ptitle">Proof Systems and Termination</span></td>
@@ -86,7 +90,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Modal logics</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Modal logics II</i> (Chair: Roman Kuznets)</td>
   </tr>
   <tr>
      <td><span class="ptime">16:20-16:45</span></td>
@@ -119,7 +123,7 @@ All Tableaux talks are in the Red Room.
   <tr>
      <td><span class="ptime">09:00-10:00</span></td>
      <td><span class="pauthors">Valentin Goranko <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
-     <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
+     <td><span class="ptitle"> Combining Semantic Tableaux<br/>(Chair: Rosalie Iemhoff)</span></td>
   </tr>
   <tr>
      <td><span class="ptime">10:00-10:30</span></td>
@@ -127,7 +131,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Tableaux calculi</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Tableaux calculi</i> (Chair: Nicolas Peltier)</td>
   </tr>
   <tr>
      <td><span class="ptime">10:30-10:55</span></td>
@@ -146,7 +150,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Separation logic</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Separation Logics</i> (Chair: Didier Galmiche)</td>
   </tr>
   <tr>
      <td><span class="ptime">11:35-12:00</span></td>
@@ -181,7 +185,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Linear logic and MV-algebras I</i> (Chair: Revantha Ramanayake)</td>
   </tr>
   <tr>
      <td><span class="ptime">09:00-09:25</span></td>
@@ -198,12 +202,16 @@ All Tableaux talks are in the Red Room.
      <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
   <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Linear Logic and MV-algebras II</i> (Chair: Timo Lang)</td>
+  </tr>
+  <tr>
      <td><span class="ptime">10:55-11:20</span></td>
      <td><span class="pauthors">Zuzana Haniková, Felip Manyà and Amanda Vidal</span></td>
      <td><span class="ptitle">The MaxSAT problem in the real-valued MV-algebra</span></td>
   <tr>
      <td><span class="ptime"></span></td>
-    <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Non-wellfounded proofs</i> (Chair: Sonia Marin)</td>
   </tr>
   <tr>
      <td><span class="ptime">11:20-11:45</span></td>
@@ -227,7 +235,7 @@ All Tableaux talks are in the Red Room.
   <tr>
      <td><span class="ptime">14:00-15:00</span></td>
      <td><span class="pauthors">Chad E. Brown <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
-     <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
+     <td><span class="ptitle"> First-Order Instantiation-Based Tableau<br/>(Chair: Martin Suda)</span></td>
   </tr>
   <tr>
      <td><span class="ptime">15:00-15:30</span></td>
@@ -235,7 +243,7 @@ All Tableaux talks are in the Red Room.
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Theorem proving</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Session:</b> <i>Theorem proving</i> (Chair: Josef Urban)</td>
   </tr>
   <tr>
      <td><span class="ptime">15:30-15:55</span></td>
