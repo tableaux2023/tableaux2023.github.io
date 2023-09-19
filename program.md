@@ -34,10 +34,6 @@ All Tableaux talks are in the Red Room.
      <td><span class="pauthors">Roman Kuznets <br/><b>Invited Talk</b></span></td>
      <td><span class="ptitle"> Always Look on Both Sides of Proof<br/>(Chair: Jens Otten)</span></td>
   </tr>
-  <tr>
-    <td ></td>
-    <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: Marta Bílková)</td>
-  </tr>
   <tr><td><span class="ptime">10:25-10:50</span></td>
     <td><span class="pauthors">Ian Shillito, Iris van der Giessen, Rajeev Gore and Rosalie Iemhoff</span></td>
      <td><span class="ptitle"> A new calculus for intuitionistic Strong Löb logic: strong termination and cut-elimination, formalised</span></td>
@@ -45,6 +41,10 @@ All Tableaux talks are in the Red Room.
   <tr>
      <td><span class="ptime">10:50-11:20</span></td>
      <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
+  </tr>
+      <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Sequent calculi</i> (Chair: TBA)</td>
   </tr>
   <tr>
      <td><span class="ptime">11:20-11:45</span></td>
