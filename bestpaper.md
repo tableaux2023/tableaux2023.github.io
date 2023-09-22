@@ -1,13 +1,11 @@
-# Best Paper Awards
+## Best Paper Awards
 
-The program committee will select the FroCoS 2021 Best Paper, which will be awarded 500 Euros. In addition to that, the committee will select the FroCoS 2021 Best Paper by a Junior Researcher, which will be awarded 250 Euros.
+The program committee will select
 
-Researchers will be considered junior if either they are students or their PhD award date is less than two years from the first day of the meeting, 8 September 2021. "Paper by a Junior Researcher" means that the paper's main author is junior, or the paper's main authors are all junior. For a paper to qualify, this information must be indicated in the pdf submission by adding an asterisk (*) at both the title and the main-author name(s). This information (main authorship by junior researcher(s)) is only for the reviewers, and should be removed from the camera-ready version in case of acceptance.
+* the TABLEAUX 2023 Best Paper; and,
+* the TABLEAUX 2023 Best Junior Researcher Paper.
 
-# Winners
+Researchers will be considered "junior" if either they are students or their PhD degree date is less than two years from the first day of the meeting. For a submission to be eligible for the Best Junior Researcher Paper award, more than 50% of the contribution must be made by the junior researcher(s). The two awards will be presented at the conference.
 
-The winner of the Best Paper by a Junior Researcher award was "Quantifier Simplification by Unification in SMT" by Pascal Fontaine and Hans-Jörg Schurr with Hans-Jörg Schurr as the Junior Researcher.
+[Photos from the Tableaux/FroCoS Best Paper Award Ceremony](https://photos.app.goo.gl/P6LW5pyayCRhc9Ef9).
 
-The winner of the Best Paper award was "Symbol Elimination and Applications to Parametric Entailment Problems" by Dennis Peuter and Viorica Sofronie-Stokkermans.
-
-Congratulations again to the winners.
