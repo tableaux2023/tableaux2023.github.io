@@ -5,6 +5,10 @@
    <strong>Automated Reasoning with Analytic Tableaux and Related Methods</strong>
 </p>
 
+## Online Proceedings
+
+[http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=14278](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=14278)
+
 ## General Information
 
 The 32<sup>nd</sup> International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2023) will be hosted by the Czech Technical University in Prague, Czech Republic, September 18-21, 2023.
